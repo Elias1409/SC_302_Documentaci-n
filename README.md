@@ -1,2 +1,1 @@
-# Labo
-Yeray se la come entera
+# SC_302_Documentación​
